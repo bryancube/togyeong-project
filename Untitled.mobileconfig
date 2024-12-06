@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>IdentityCertificateUUID</key>
+				<string>24c1b4bd-40f2-433b-9c57-24666aa65ad1</string>
+				<key>PayloadDisplayName</key>
+				<string>MDM</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.mdm.069d7bf0-6846-43d4-b83c-bfc6513ed35d</string>
+				<key>PayloadType</key>
+				<string>com.apple.mdm</string>
+				<key>PayloadUUID</key>
+				<string>069d7bf0-6846-43d4-b83c-bfc6513ed35d</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ServerURL</key>
+				<string>https://enterpriseenrollment.sen.go.kr/mdm/ios/dep/control</string>
+				<key>Topic</key>
+				<string>com.apple.mgmt.External.24c1b4bd-40f2-433b-9c57-24666aa65ad1</string>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>Untitled</string>
+		<key>PayloadIdentifier</key>
+		<string>DESKTOP-CE8AI0B.15d3229f-6ea3-439f-b524-2ed2da802ae2</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>15d3229f-6ea3-439f-b524-2ed2da802ae2</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
